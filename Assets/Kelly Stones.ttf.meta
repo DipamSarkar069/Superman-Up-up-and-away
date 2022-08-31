@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cb5582502df7ada4ea8de5076150f0e5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kelly Stones
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 75e4288915ebf2c4bb75b7a4685eb853, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
